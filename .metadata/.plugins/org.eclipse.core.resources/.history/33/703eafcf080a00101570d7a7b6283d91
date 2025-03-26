@@ -22,7 +22,7 @@ public class Alert12 {
 		alert.dismiss();
 		
 		
-		System.out.print("hi");  
-		}
+
+	}
 
 }

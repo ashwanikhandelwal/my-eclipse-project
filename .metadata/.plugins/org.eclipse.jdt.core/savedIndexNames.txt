@@ -43,7 +43,6 @@ INDEX VERSION 1.134+/Users/ashwanikhandelwal/eclipse-workspace/.metadata/.plugin
 3773878026.index
 3056028301.index
 2429427415.index
-3893379105.index
 2118923792.index
 567378236.index
 3632372712.index
